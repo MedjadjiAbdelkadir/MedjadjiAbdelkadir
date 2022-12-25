@@ -1,6 +1,6 @@
 ### Hi 👋, l'm Medjadji Abdelkadir
-I'mMedjadji Abdelkadir, Full Stack Developer 🚀 from Algeria
-You can reach me on : [medjadjiabdelkadir23@gmail.com](medjadjiabdelkadir23@gmail.com)
+I'mMedjadji Abdelkadir, Full Stack Developer 🚀 from Algeria <br>
+You can reach me on : [medjadjiabdelkadir23@gmail.com]
 ## My Content
 [<img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"  width="50px" height="50px">](https://www.facebook.com/profile.php?id=100008402194564) [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"  width="50px" height="50px">](https://www.linkedin.com/in/medjadji-abdelkadir)
 
