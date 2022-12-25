@@ -6,6 +6,11 @@
 You can reach me on : medjadjiabdelkadir22@gmail.com <br>
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/med_abdelkadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="med_abdelkadir" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/medjadji-abdelkadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="medjadji-abdelkadir" height="30" width="40" /></a>
+</p>
+
 [<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"  alt="HTML5" width="40" height="40">](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" >](https://www.linkedin.com/in/medjadji-abdelkadir)
 
