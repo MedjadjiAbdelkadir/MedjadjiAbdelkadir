@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 You can reach me on : medjadjiabdelkadir22@gmail.com
 ## Connect with me : 
-[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" width="40" height="40" >](https://www.linkedin.com/in/medjadji-abdelkadir)
+[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" >](https://www.linkedin.com/in/medjadji-abdelkadir)
 
 
 ## Skills And Tools :
