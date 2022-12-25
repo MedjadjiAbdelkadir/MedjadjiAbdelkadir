@@ -1,8 +1,8 @@
-### Hi 👋, l'm Medjadji Abdelkadir
-I'mMedjadji Abdelkadir, Full Stack Developer 🚀 from Algeria <br>
+<h1 align="center">Hi 👋, I'm Medjadji Abdelkadir</h1>
+<h3 align="center">Full Stack Developer</h3>
 You can reach me on : medjadjiabdelkadir22@gmail.com
-## My Content
-[<img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"  width="50px" height="50px">](https://www.facebook.com/profile.php?id=100008402194564) [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"  width="50px" height="50px">](https://www.linkedin.com/in/medjadji-abdelkadir)
+## Connect with me:
+[<img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"  alt="Facebook" width="40" height="40">](https://www.facebook.com/profile.php?id=100008402194564) [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" width="40" height="40">](https://www.linkedin.com/in/medjadji-abdelkadir)
 
 
 ## Skills And Tools :
