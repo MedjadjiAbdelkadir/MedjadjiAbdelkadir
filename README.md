@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Medjadji Abdelkadir</h1>
 <h3 align="center">Full Stack Developer</h3>
 You can reach me on : medjadjiabdelkadir22@gmail.com
-## Connect with me : 
+## Connect with me : <br>
 [<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"  alt="HTML5" width="40" height="40">](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" >](https://www.linkedin.com/in/medjadji-abdelkadir)
 
