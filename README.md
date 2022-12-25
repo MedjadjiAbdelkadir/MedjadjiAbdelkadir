@@ -7,7 +7,7 @@ You can reach me on : medjadjiabdelkadir22@gmail.com <br>
 
 <h3 align="left">Connect with me:</h3>
 
-[<img src="[https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)"  alt="HTML5" width="40" height="40">]([https://developer.mozilla.org/en-US/docs/Web/HTML](https://fb.com/100008402194564))
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"  alt="Facebook" width="40" height="40">](https://fb.com/100008402194564))
 [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" >](https://www.linkedin.com/in/medjadji-abdelkadir)
 
 
