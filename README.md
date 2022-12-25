@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi 👋, l'm Medjadji Abdelkadir
+
 
 <!--
 **MedjadjiAbdelkadir/MedjadjiAbdelkadir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## My Content :
 
 Here are some ideas to get you started:
 
