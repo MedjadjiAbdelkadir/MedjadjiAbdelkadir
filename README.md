@@ -2,7 +2,7 @@
 ## Full Stack Developer
 ## Skills
 ### Front End
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50px" height="50px"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"  width="50px" height="50px"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"  width="50px" height="50px"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"  width="50px" height="50px">
+[<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50px" height="50px">]('https://www.w3.org/TR/CSS/#css')<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"  width="50px" height="50px"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"  width="50px" height="50px"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"  width="50px" height="50px">
 
 
 
