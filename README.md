@@ -1,7 +1,7 @@
 ### Hi 👋, l'm Medjadji Abdelkadir
 ## Full Stack Developer
-##Skills
-###Front End :
+## Skills
+### Front End
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" >
 
 <!--
