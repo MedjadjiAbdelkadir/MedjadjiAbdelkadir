@@ -1,8 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Medjadji Abdelkadir</h1>
 <h3 align="center">Full Stack Developer</h3>
+
 You can reach me on : medjadjiabdelkadir22@gmail.com <br>
+
 ## My Social Media Accounts :
+
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"  alt="Facebook" width="40" height="40">](https://fb.com/100008402194564) [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" >](https://www.linkedin.com/in/medjadji-abdelkadir)
 
 
