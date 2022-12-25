@@ -1,5 +1,10 @@
 ### Hi 👋, l'm Medjadji Abdelkadir
-## Full Stack Developer
+I'mMedjadji Abdelkadir, Full Stack Developer 🚀 from Algeria
+You can reach me on : [medjadjiabdelkadir23@gmail.com](medjadjiabdelkadir23@gmail.com)
+## My Content
+[<img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"  width="50px" height="50px">](https://www.facebook.com/profile.php?id=100008402194564) [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"  width="50px" height="50px">](https://www.linkedin.com/in/medjadji-abdelkadir)
+
+
 ## Skills
 [<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50px" height="50px">](https://developer.mozilla.org/en-US/docs/Web/HTML) [<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="50px" height="50px">](https://developer.mozilla.org/en-US/docs/Web/CSS) [<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"  width="50px" height="50px">](https://tailwindcss.com) [<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"  width="50px" height="50px">](https://getbootstrap.com) [<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg"  width="50px" height="50px">](https://www.php.net) [<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"  width="50px" height="50px">](https://www.mysql.com) [<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg"  width="50px" height="50px">](https://laravel.com)
 
