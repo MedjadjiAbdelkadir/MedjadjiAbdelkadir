@@ -2,6 +2,7 @@
 ## Full Stack Developer
 ## Skills
 ### Front End
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50px" height="50px">
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" >
 
 <!--
