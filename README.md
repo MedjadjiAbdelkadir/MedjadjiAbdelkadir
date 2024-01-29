@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 You can reach me on : medjadjiabdelkadir22@gmail.com <br>
-You can view my resume : [Medjadji_Abdelkair_CV](https://drive.google.com/file/d/1kVd_emU1fqi_5jtNE84BkYtTKV7h_R7-/view)
+You can view my resume : [Medjadji_Abdelkair_CV](https://drive.google.com/file/d/1Zpv-i24ujWehbVlAUUmL679StnLPYC8b/view?usp=drive_link)
 ## My Social Media Accounts :
 
 
